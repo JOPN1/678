@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: goldenrod;
+}
+.content{
+width: 100%;
+min-height: 100vh;
+position: absolute;
+top: 0;
+left: 0;
+display: flex;
+justify-content: center;
+align-items: center;
+flex-direction: column;
+text-transform: uppercase;
+text-align: center;
+}
+
+.content h1{
+font-size: 45px;
+color: #fff;
+font-weight: 500;
+margin-bottom: 200px;
+}
+
+
+.content h3{
+    font-size: 45px;
+    color: #fff;
+    font-weight: 600;
+    margin-bottom: 5px;
+    }
